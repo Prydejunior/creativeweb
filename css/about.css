@@ -1,0 +1,11 @@
+#background{
+    background-image: url(../assets/buisness.jpg);
+    width: 100%;
+    background-size: cover;
+    padding: 0%;
+    margin: 0%;
+}
+.overlayed{
+    background-color: rgba(0, 0, 0, 0.500);
+    margin:0%;
+}
